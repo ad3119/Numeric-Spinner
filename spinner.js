@@ -1,6 +1,6 @@
 /*
 
-Author: bgh39679 - Arjun, Aricent
+Author: Arjun,
 Accepts Range as param , sample function:
 
 $('#example').spinner({
